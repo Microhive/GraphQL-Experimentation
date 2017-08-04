@@ -1,0 +1,31 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Eiler Poulsen",
+      "email": "test@gmail.com",
+      "age": 25,
+      "hobby": {
+        "name": "Dungeons & Dragons"
+      }
+    },
+    {
+      "id": "2",
+      "name": "John Bane",
+      "email": "test@outlook.com",
+      "age": 25,
+      "hobby": {
+        "name": "Football"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Sara Williams",
+      "email": "test@yahoo.com",
+      "age": 25,
+      "hobby": {
+        "name": "Reddit"
+      }
+    }
+  ]
+}
