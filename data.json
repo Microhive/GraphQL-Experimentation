@@ -24,8 +24,14 @@
       "email": "test@yahoo.com",
       "age": 25,
       "hobby": {
-        "name": "Reddit"
+        "name": "Reddit"  
       }
+    }, 
+    {
+      "id": "4",
+      "name": "Jacop Nielson",
+      "email": "test@aol.com",
+      "age": 25
     }
   ]
 }
