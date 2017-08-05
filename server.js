@@ -9,6 +9,7 @@ app.use('/graphql', expressGraphQl({
     graphiql:true
 }))
 
-app.listen(4000, () => {
-    console.log('Server is running on port 4000..');
+var port = process.env.port || 4001;
+app.listen(port, () => {
+    console.log('Server is running on port' + port + '..');
 });
